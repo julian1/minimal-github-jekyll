@@ -33,5 +33,19 @@ Or else - we structure everything as a post, and maybe also permalink?
 
 {% for tag in site.tags %}
   here -> {{ tag | first }}
+
+  {% for post in site.posts %}
+
+  {% endfor %}
+
+{% endfor %}
+
+
+#### Categories
+
+categories don't seem to work in non-post content
+
+{% for category in site.categories %}
+  here -> {{ category | first }}
 {% endfor %}
 

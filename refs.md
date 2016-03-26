@@ -4,6 +4,9 @@ layout: about
 tags:
   - mytag1
   - mytag2
+categories:
+  - mycategory
+
 ---
 
 - Nice Tutorial and Intro
