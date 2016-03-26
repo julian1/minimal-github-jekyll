@@ -32,3 +32,9 @@ layout: about
   <https://jekyllrb.com/docs/datafiles/>
   - this provides a good mechanism, to control content creation - eg. could create index pages.
   - only thing missing is really zip files,  
+
+- Seo - eg. filling in title and meta description tags
+  http://jekyll.tips/tutorials/seo/
+
+- Front matter is in YAML!
+  http://jekyllrb.com/docs/frontmatter/
