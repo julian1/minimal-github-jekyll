@@ -1,5 +1,6 @@
 ---
-title: new years
+title: New Years
+layout: about
 ---
 
 Whoot!
