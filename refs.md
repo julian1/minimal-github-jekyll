@@ -1,6 +1,9 @@
 ---
-title: Refs 
+title: Refs
 layout: about
+tags:
+  - mytag1
+  - mytag2
 ---
 
 - <http://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages>
@@ -28,10 +31,10 @@ layout: about
 - Downloads
   <http://stackoverflow.com/questions/32673993/how-do-i-provide-files-for-download>
 
-- Datafiles - json, yaml etc.  
+- Datafiles - json, yaml etc.
   <https://jekyllrb.com/docs/datafiles/>
   - this provides a good mechanism, to control content creation - eg. could create index pages.
-  - only thing missing is really zip files,  
+  - only thing missing is really zip files,
 
 - Seo - eg. filling in title and meta description tags
   http://jekyll.tips/tutorials/seo/
