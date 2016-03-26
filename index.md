@@ -1,23 +1,12 @@
 ---
-title: Index
+title: Posts
 layout: about
 ---
-
-## Blog Posts
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
     {{ post.excerpt }}
 {% endfor %}
-
-[Install](install.html).
-
-[Advantages](advantages.html).
-
-[Archive](archive.html).
-
-[Markdown Examples](examples.html).
-
 
 
 
