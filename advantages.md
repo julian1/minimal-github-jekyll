@@ -12,6 +12,7 @@ layout: about
 - Github provided CDN
 - seo optimised static content
 - support for custom dns using cname redirects
+- supports categories, and list filtering
 - Github supports multiple sites per github account with project pages and cnames
 - no hosting, opaque db backend, webserver, ssl termination, firewall, backup needed
 - no cron copy job
@@ -39,3 +40,11 @@ layout: about
 - Also seems as though cannot do double cname to github, but could probably use this, redirector
   or else set up an instance to do 301 http redirect
   <http://wwwizer.com/naked-domain-redirect>
+
+- Downloads
+  <http://stackoverflow.com/questions/32673993/how-do-i-provide-files-for-download>
+
+- Datafiles - json, yaml etc.
+  - <https://jekyllrb.com/docs/datafiles/>
+  - this provides a good mechanism, to control content creation - eg. could create index pages.
+  - only thing missing is really zip files,  
