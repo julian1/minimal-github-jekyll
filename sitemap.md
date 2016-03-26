@@ -29,7 +29,9 @@ layout: about
 
 tags don't work...
 
-{% for tag in site.data.tags %}
+<ul class="tag-cloud">
+{% for tag in site.tags %}
   here {{ tag }}
 {% endfor %}
+</ul>
 
