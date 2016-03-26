@@ -3,16 +3,16 @@ title: Advantages
 layout: about
 ---
 
-- full Markdown support
+- Markdown support
 - liquid templating
-- full html, css, javascript
+- html, css, javascript, json, yaml etc
 - git/Github for versioning and hosting
 - Github provided CDN
-- seo optimised static content
-- support for custom dns using cname redirects
-- supports categories, and list filtering
-- Github supports multiple sites per github account with project pages and cnames
-- no hosting, opaque db backend, webserver, ssl termination, firewall, backup needed
+- entirely static content optimised for seo
+- custom dns using cname redirect
+- support categories, and list filtering
+- multiple sites per github account using project pages and cnames
+- no hosting, opaque db backend, webserver, ssl termination, firewall, backup scripts needed
 - no cron copy job
 
 
