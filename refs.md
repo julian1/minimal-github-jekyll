@@ -6,6 +6,9 @@ tags:
   - mytag2
 ---
 
+- Github pages jekyll plugins list
+  <https://pages.github.com/versions/>
+
 - <http://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages>
 
 - <http://jekyllrb.com/docs/github-pages/#project-page-url-structure>
