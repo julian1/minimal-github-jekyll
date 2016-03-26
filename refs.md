@@ -47,9 +47,8 @@ tags:
 - Seo - eg. filling in title and meta description tags
   - <http://jekyll.tips/tutorials/seo/>
 
-- Tags issues
-  - <http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html>
-  - <http://www.minddust.com/post/tags-and-categories-on-github-pages/>
+- Tags do work on Github pages, see
+  - <http://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/>
 
 - Front matter is in YAML!
   <http://jekyllrb.com/docs/frontmatter/>

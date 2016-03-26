@@ -27,11 +27,11 @@ layout: about
 
 #### Tags
 
-tags don't work...
+tags work - but only on post content ...
+perhaps categories - might work across pages
+Or else - we structure everything as a post, and maybe also permalink?
 
-<ul class="tag-cloud">
 {% for tag in site.tags %}
-  here {{ tag }}
+  here -> {{ tag | first }}
 {% endfor %}
-</ul>
 
