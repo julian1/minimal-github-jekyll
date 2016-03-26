@@ -1,9 +1,9 @@
 ---
-title: New Years Eve
+title: New Years Day
 layout: about
 tags:
-  - mytag1
   - mytag2
+  - mytag3
 ---
 
 Whoot!
