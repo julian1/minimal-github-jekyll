@@ -5,16 +5,17 @@ layout: about
 
 #### Locally 
 
-bundle install
-
-jekyll serve
-
+```
+$ bundle install
+$ jekyll serve
+```
 navigate in browser to <http://127.0.0.1:4000/>
 
 
 #### Github
 
-push branch gh-pages
-
+```
+$ push branch gh-pages
+```
 navigate to project eg. <http://schemas2.julian1.io/> or <http://schemas.julian1.io/schemas2/> 
 
