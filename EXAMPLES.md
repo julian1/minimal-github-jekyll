@@ -28,6 +28,8 @@ Using Home as link shortcut - doesn't work
 [Home][].
 
 
+[Using post_url to index content]({% post_url 2011-12-31-new-years-eve-is-awesome %})
+
 #### Whoot inline html
 
 <dl>
