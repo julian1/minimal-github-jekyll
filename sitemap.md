@@ -33,4 +33,3 @@ tags don't work...
   here {{ tag }}
 {% endfor %}
 
-See [here](http://www.minddust.com/post/tags-and-categories-on-github-pages/)

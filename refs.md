@@ -6,18 +6,23 @@ tags:
   - mytag2
 ---
 
+- Nice Tutorial and Intro
+  <http://joshualande.com/jekyll-github-pages-poole/>
+
 - Github pages jekyll plugins list
   <https://pages.github.com/versions/>
 
-- <http://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages>
+- Multiple sites under one Github account
+  <http://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages>
 
-- <http://jekyllrb.com/docs/github-pages/#project-page-url-structure>
+- Project structure - local and Gihub
+  <http://jekyllrb.com/docs/github-pages/#project-page-url-structure>
 
-- <http://jekyllrb.com/docs/templates>
+- Templates
+  <http://jekyllrb.com/docs/templates>
 
-- <https://help.github.com/articles/configuring-jekyll/>
-
-- <http://joshualande.com/jekyll-github-pages-poole/>
+- Jekyl config.yml
+  <https://help.github.com/articles/configuring-jekyll/>
 
 - Adding Google comments will improve seo
   <http://steelx.github.io/best-internet-tips/2014/11/23/Add-google-plus-comments-box-to-jekyll-website.html>
@@ -31,7 +36,7 @@ tags:
   or else set up an instance to do 301 http redirect
   <http://wwwizer.com/naked-domain-redirect>
 
-- Downloads
+- Download static content pdf, binaries etc
   <http://stackoverflow.com/questions/32673993/how-do-i-provide-files-for-download>
 
 - Datafiles - json, yaml etc.
@@ -40,7 +45,11 @@ tags:
   - only thing missing is really zip files,
 
 - Seo - eg. filling in title and meta description tags
-  http://jekyll.tips/tutorials/seo/
+  - <http://jekyll.tips/tutorials/seo/>
+
+- Tags issues
+  - <http://geoexamples.com/other/2015/06/04/Jekyll-tags-plugin-gh-pages.html>
+  - <http://www.minddust.com/post/tags-and-categories-on-github-pages/>
 
 - Front matter is in YAML!
-  http://jekyllrb.com/docs/frontmatter/
+  <http://jekyllrb.com/docs/frontmatter/>
