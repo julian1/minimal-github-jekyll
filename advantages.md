@@ -23,7 +23,6 @@ layout: about
 - <http://jekyllrb.com/docs/templates>
 - <https://help.github.com/articles/configuring-jekyll/>
 - <http://joshualande.com/jekyll-github-pages-poole/>
-
 - <http://steelx.github.io/best-internet-tips/2014/11/23/Add-google-plus-comments-box-to-jekyll-website.html>
 
 
