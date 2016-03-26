@@ -5,6 +5,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="/public/css/poole.css">
     <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/hyde.css">
 
     <!-- Icons -->
     <!-- link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
@@ -12,12 +13,40 @@
   </head>
   <body>
 
-    <!-- header -->
-    <div>
-      <a href=index.html>Home</a>
+
+    <div class="sidebar">
+      <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+          <h1>
+            <a href="/">
+              A Blog
+            </a>
+          </h1>
+          <p class="lead">A blog about the Internet. Made by <a href="https://google.com/whoot" target="_blank">@whoot</a>.</p>
+        </div>
+
+        <nav class="sidebar-nav">
+          <a class="sidebar-nav-item active" href="/">Home</a>
+          <a class="sidebar-nav-item" href="/install.html">Install</a>
+          <a class="sidebar-nav-item" href="/advantages.html">Advantages</a>
+          <a class="sidebar-nav-item" href="/archive.html">Archive</a>
+          <a class="sidebar-nav-item" href="/examples.html">Markdown examples</a>
+
+          <span class="sidebar-nav-item">Currently v2.1.0</span>
+        </nav>
+
+        <p>&copy; 2015. All rights reserved.</p>
+      </div>
     </div>
 
-    <div>{{content}}</div>
+
+    <!-- header -->
+    <div class="container content">
+
+      <div>{{content}}</div>
+
+    </div>
+
   </body>
 </html>
 

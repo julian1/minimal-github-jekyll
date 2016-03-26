@@ -3,7 +3,7 @@ title: Advantages
 layout: about
 ---
 
-#### Advantages
+### Advantages
 
 - full Markdown support
 - full css, javascript  
