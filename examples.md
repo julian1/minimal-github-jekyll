@@ -3,7 +3,6 @@ title: Markdown examples
 layout: about
 ---
 
-[Home](index.html).
 
 #### Whoot this is markdown!
 
@@ -36,4 +35,5 @@ Using Home as link shortcut - doesn't work
   <dd>Is something people use sometimes.</dd>
 </dl>
 
+[Markdown home link](index.html).
 

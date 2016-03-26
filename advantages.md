@@ -3,8 +3,6 @@ title: Advantages
 layout: about
 ---
 
-[Home](index.html).
-
 #### Advantages
 
 - full Markdown support

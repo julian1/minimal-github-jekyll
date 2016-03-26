@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-     {% include header.html %}
+    <!-- could put in header.html but there's not much point -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+
+    <!-- Icons -->
+    <!-- link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                   <link rel="shortcut icon" href="/public/favicon.ico" -->
   </head>
   <body>
- 
-    <div>My Content</div>
+
+    <!-- header -->
+    <div>
+      <a href=index.html>Home</a>
+    </div>
+
     <div>{{content}}</div>
   </body>
 </html>

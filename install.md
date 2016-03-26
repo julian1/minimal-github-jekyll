@@ -3,8 +3,6 @@ title: Install
 layout: about
 ---
 
-[Home](index.html).
-
 #### Locally 
 
 bundle install
