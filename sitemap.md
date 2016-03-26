@@ -5,6 +5,7 @@ layout: about
 
 <!-- html comment, it's iterating the non post content only -->
 
+
 {% for tag in page.tags %}
   <h3>  {{ tag }} </h3>
 {% endfor %}
@@ -24,4 +25,12 @@ layout: about
 - [{{ post.path }}]({{ post.url }})
 {% endfor %}
 
+#### Tags
 
+tags don't work...
+
+{% for tag in site.data.tags %}
+  here {{ tag }}
+{% endfor %}
+
+See [here](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
