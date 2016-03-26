@@ -47,10 +47,17 @@
 
     <!-- header -->
     <div class="container content">
+
       {% for tag in page.tags %}
         <h3>  {{ tag }} </h3>
       {% endfor %}
+
       <div><h2> {{ page.title %}} </h2></div>
+
+      {% if page.date %}
+          <time>{{ page.date | date: "%B %-d, %Y" }}</time>
+       {% endif %}
+
       <div>{{content}}</div>
     </div>
 
