@@ -1,7 +1,6 @@
 ---
 title: Markdown examples
-
-layout: post
+layout: about
 ---
 
 [Home](index.html).

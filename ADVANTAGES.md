@@ -1,5 +1,6 @@
 ---
 title: Advantages
+layout: about
 ---
 
 [Home](index.html).
