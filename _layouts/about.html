@@ -49,7 +49,15 @@
     <!-- header -->
     <div class="container content">
 
-      <div><h2> {{ page.title %}} </h2></div>
+      <div >
+        <h2 class="post-title"> {{ page.title %}} </h2>
+      </div>
+
+      {% if page.date %}
+        <div class="post-date">
+          {{ page.date | date: "%B %-d, %Y" }}
+        </div>
+      {% endif %}
 
       <div>
       <!-- should be a join, with comma -->
@@ -58,9 +66,6 @@
         {% endfor %}
       </div>
 
-      {% if page.date %}
-          <time>{{ page.date | date: "%B %-d, %Y" }}</time>
-       {% endif %}
 
       <hr />
 
