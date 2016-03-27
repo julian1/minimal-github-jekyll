@@ -1,6 +1,7 @@
 ---
 title: Advantages
 layout: about
+permalink: advantages.html
 ---
 
 - markdown
