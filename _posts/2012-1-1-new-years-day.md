@@ -8,3 +8,7 @@ tags:
 
 Whoot!
 
+
+![alt text](/public/images/icon256.png "My Image")
+
+
